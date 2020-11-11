@@ -825,6 +825,14 @@ h4 {
     background-image: url("img/image-de-presentation.bmp");
 }
 
+.citation{
+    font-size: 22px;
+}
+
+blockquote{
+    margin-bottom: -2px;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
@@ -1026,7 +1034,11 @@ h4 {
         width: 180px;
         height: 320px;
     }
-}
+}    
+    .keywords{
+        color:#cccccc;
+        font-size:1px;
+    }
 
 @media (max-width: 400px) {
     .bloc {
