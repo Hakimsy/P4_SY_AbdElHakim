@@ -840,7 +840,8 @@ blockquote{
     margin-bottom: -2px;
 }
 
-h4{
+.col-sm-12 p{
+    font-size: 20px;
     color: black;
 }
 
