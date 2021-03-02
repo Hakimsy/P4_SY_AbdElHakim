@@ -7,6 +7,16 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.img-responsive {
+    margin: auto;
+}
+
+.socialicons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
